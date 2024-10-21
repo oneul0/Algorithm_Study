@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td>스터디 장소</td>
-    <td>온라인(Zoom, Zep)</td>
+    <td>온라인(Zoom, Zep, Discord)</td>
   </tr>
   <tr>
     <td>정기 스터디 시간</td>
