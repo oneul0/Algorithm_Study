@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>플랫폼</td>
-    <td>프로그래머스, 백준</td>
+    <td>프로그래머스, 백준, SWEA, LeetCode</td>
   </tr>
   <tr>
     <td>언어</td>
