@@ -1,9 +1,29 @@
 ---
-# 💯 알고리즘 및 코딩 테스트 문제 풀이 [Notion](https://www.notion.so/be4f5696e32f4ee8bb33b95f90ce7943) 📝
-- 백준, 프로그래머스의 알고리즘 문제 풀이 오픈 소스를 제공합니다.
 
-### ✍ 175 Problems Solved
-
+<table>
+  <tr>
+    <td>진행 기간</td>
+    <td>2024년 10월 21일 ~ </td>
+  </tr>
+  <tr>
+    <td>스터디 장소</td>
+    <td>온라인</td>
+  </tr>
+  <tr>
+    <td>정기 스터디 시간</td>
+    <td>월요일 19:00 ~ 21:00 [2h] <br> 금요일 19:00 ~ 21:00 [2h]
+  </tr>
+  <tr>
+    <td>플랫폼</td>
+    <td>프로그래머스, 백준</td>
+  </tr>
+  <tr>
+    <td>언어</td>
+    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ## 👩‍👦‍👦 **스터디 멤버**
 <table>
