@@ -31,11 +31,13 @@
     <td align="center"><a href="https://github.com/oneul0"><img src="https://avatars.githubusercontent.com/oneul0" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/platypus3036"><img src="https://avatars.githubusercontent.com/platypus3036" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/kUZEEwon"><img src="https://avatars.githubusercontent.com/kUZEEwon" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/feijoazoa"><img src="https://avatars.githubusercontent.com/feijoazoa" width="150px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/oneul0"><b>김기훈</b></td>
     <td align="center"><a href="https://github.com/platypus3036"><b>배재유</b></td>
       <td align="center"><a href="https://github.com/kUZEEwon"><b>구지원</b></td>
+      <td align="center"><a href="https://github.com/feijoazoa"><b>장은영</b></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
@@ -44,6 +46,7 @@
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     </td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
   </tr> 
 </table>
 
