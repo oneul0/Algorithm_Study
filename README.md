@@ -57,14 +57,14 @@
 
 ### 🟨 이번 주 문제
 ## 필수 문제
-이번주는 파일럿 주차로, 다양한 난이도의 문제 3개를 가져왔습니다.
+이번주는 파일럿 주차로, 다양한 난이도의 문제 3개를 가져왔습니다.<br />
 [백준 17478번 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) </br>
 [백준 1260번 DFS와 BFS](https://www.acmicpc.net/problem/1260) </br>
 [백준 7576번 토마토](https://www.acmicpc.net/problem/7576) </br>
 
 ## 선택 문제
 
-<br />
+
 <br />
 
 ### :pencil: Rule  
