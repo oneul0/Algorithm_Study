@@ -32,12 +32,14 @@
     <td align="center"><a href="https://github.com/platypus3036"><img src="https://avatars.githubusercontent.com/platypus3036" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/kUZEEwon"><img src="https://avatars.githubusercontent.com/kUZEEwon" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/feijoazoa"><img src="https://avatars.githubusercontent.com/feijoazoa" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/jy6443"><img src="https://avatars.githubusercontent.com/jy6443" width="150px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/oneul0"><b>김기훈</b></td>
     <td align="center"><a href="https://github.com/platypus3036"><b>배재유</b></td>
       <td align="center"><a href="https://github.com/kUZEEwon"><b>구지원</b></td>
       <td align="center"><a href="https://github.com/feijoazoa"><b>장은영</b></td>
+      <td align="center"><a href="https://github.com/jy6443"><b>김준영</b></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
@@ -47,6 +49,10 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     </td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    </td>
   </tr> 
 </table>
 
@@ -79,11 +85,10 @@
 1. 이 저장소를 `fork` 한다. 
 2. 매주 새 디렉터리를 만듭니다. (ex. 1주차, 2주차 ...)
 3. 디렉터리에 문제 디렉터리를 또 만듭니다. 
-4. 해당 문제 폴더에 자신의 소스코드.md를 업로드 한다. 
+4. 해당 문제 폴더에 자신의 소스코드를 업로드 한다. 
 5. 이때 `commit 규칙`을 지키도록한다!
 6. 원본 저장소로 `Pull Request`를 한다. 
 7. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
-8. ***주의!! 기존 폴더를 지우면 안됩니다!!*** 개인 폴더 내부만 수정해주세요 :)
 
 <br />
 <br />
