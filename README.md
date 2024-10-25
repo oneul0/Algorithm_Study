@@ -63,12 +63,13 @@
 
 ### 🟨 이번 주 문제
 ## 필수 문제
-이번주는 파일럿 주차로, 다양한 난이도의 문제 3개를 가져왔습니다.<br />
 2023 KAKAO BLIND RECRUITMENT 레벨 1 [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150368) </br>
 2023 KAKAO BLIND RECRUITMENT 레벨 2 [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150370) </br>
 백준 14891번 [톱니바퀴](https://www.acmicpc.net/problem/14891) </br>
 
 ## 선택 문제
+연습문제 레벨 2 [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) </br>
+백준 2667번 [단지번호붙이기](https://www.acmicpc.net/problem/2667) </br>
 
 
 <br />
