@@ -64,9 +64,9 @@
 ### 🟨 이번 주 문제
 ## 필수 문제
 이번주는 파일럿 주차로, 다양한 난이도의 문제 3개를 가져왔습니다.<br />
-백준 17478번 [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) </br>
-백준 1260번 [DFS와 BFS](https://www.acmicpc.net/problem/1260) </br>
-백준 7576번 [토마토](https://www.acmicpc.net/problem/7576) </br>
+2023 KAKAO BLIND RECRUITMENT 레벨 1 [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150368) </br>
+2023 KAKAO BLIND RECRUITMENT 레벨 2 [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150370) </br>
+백준 14891번 [톱니바퀴](https://www.acmicpc.net/problem/14891) </br>
 
 ## 선택 문제
 
@@ -100,11 +100,11 @@
 <br />
 
 ## ✅ commit 규칙
-- commit 메세지: [문제출처] 문제번호 / 난이도 / 문제 걸린시간 / 이름
+- commit 메세지: [문제출처] 문제이름 / 난이도 / 문제 걸린시간 / 이름
 - description: 문제 주소 (option)
 - 깃 폴더 구조: 
 ```
-{주차}/{문제번호}/{푼 사람.java}
+{주차}/{플랫폼_문제이름}/{푼 사람.java}
 ```
 
 <br />
