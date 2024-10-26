@@ -64,8 +64,8 @@
 ### 🟨 이번 주 문제
 ## 이번주는 월(모각코), 수(리뷰), 예비군 및 KB 수료식 이슈로 인해 금(휴무) 으로 진행합니다.
 ## 필수 문제
-2023 KAKAO BLIND RECRUITMENT 레벨 1 [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150368) </br>
-2023 KAKAO BLIND RECRUITMENT 레벨 2 [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150370) </br>
+2023 KAKAO BLIND RECRUITMENT 레벨 1 [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) </br>
+2023 KAKAO BLIND RECRUITMENT 레벨 2 [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) </br>
 백준 14891번 [톱니바퀴](https://www.acmicpc.net/problem/14891) </br>
 
 ## 선택 문제
