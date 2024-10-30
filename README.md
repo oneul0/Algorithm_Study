@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>정기 스터디 시간</td>
-    <td>월요일 20:00 ~ 22:00 [최대 2h] <br> 수요일 20:00 ~ 22:00 [최대 2h] <br> 금요일 20:00 ~ 22:00 [최대 2h]
+    <td>월요일 10:00 ~ 12:00 [최대 2h] <br> 수요일 10:00 ~ 12:00 [최대 2h] <br> 금요일 10:00 ~ 12:00 [최대 2h]
   </tr>
   <tr>
     <td>플랫폼</td>
@@ -64,13 +64,22 @@
 ### 🟨 이번 주 문제
 ## 이번주는 월(모각코), 수(리뷰), 예비군 및 KB 수료식 이슈로 인해 금(휴무) 으로 진행합니다.
 ## 필수 문제
-2023 KAKAO BLIND RECRUITMENT 레벨 1 [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) </br>
-2023 KAKAO BLIND RECRUITMENT 레벨 2 [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) </br>
-백준 14891번 [톱니바퀴](https://www.acmicpc.net/problem/14891) </br>
+2018 KAKAO BLIND RECRUITMENT 1차
+[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) </br>
+
+백준 11057번
+[오르막 수](https://www.acmicpc.net/problem/11057) </br>
+
+백준 N과 M 시리즈(1~3) 
+[N과 M (1)](https://www.acmicpc.net/problem/15649) </br>
+[N과 M (2)](https://www.acmicpc.net/problem/15650)</br>
+[N과 M (3)](https://www.acmicpc.net/problem/15651)</br>
 
 ## 선택 문제
-연습문제 레벨 2 [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) </br>
-백준 2667번 [단지번호붙이기](https://www.acmicpc.net/problem/2667) </br>
+연습문제 레벨 2 
+[하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) </br>
+백준 9663번 
+[N-Queen](https://www.acmicpc.net/problem/9663) </br>
 
 
 <br />
