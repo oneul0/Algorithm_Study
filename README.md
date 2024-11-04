@@ -63,6 +63,9 @@
 
 ### 🟨 이번 주 문제
 ## 이번주는 월(모각코), 수(리뷰), 예비군 및 KB 수료식 이슈로 인해 금(휴무) 으로 진행합니다.
+## 노션에 출석부 페이지에서 이번주 출석 가능한 일자에 본인 이름 태그하시면 됩니다.
+</br>
+
 ## 필수 문제
 2018 KAKAO BLIND RECRUITMENT 1차
 [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) </br>
