@@ -74,7 +74,7 @@
 백준 11722번 S2
 [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) </br>
 
-백준 4485번 G4 </br>
+백준 4485번 G4 
 [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) </br>
 
 ## 선택 문제
