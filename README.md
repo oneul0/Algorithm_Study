@@ -68,22 +68,21 @@
 </br>
 
 ## 필수 문제
-2018 KAKAO BLIND RECRUITMENT 1차
-[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) </br>
+2024 KAKAO WINTER INTERNSHIP L2
+[도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) </br>
 
-백준 11057번
-[오르막 수](https://www.acmicpc.net/problem/11057) </br>
+백준 11722번 S2
+[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) </br>
 
-백준 N과 M 시리즈(1~3) </br>
-[N과 M (1)](https://www.acmicpc.net/problem/15649) </br>
-[N과 M (2)](https://www.acmicpc.net/problem/15650)</br>
-[N과 M (3)](https://www.acmicpc.net/problem/15651)</br>
+백준 4485번 G4 </br>
+[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) </br>
 
 ## 선택 문제
-연습문제 레벨 2 
-[하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) </br>
-백준 9663번 
-[N-Queen](https://www.acmicpc.net/problem/9663) </br>
+백준 11726번 S3
+[2×n 타일링](https://www.acmicpc.net/problem/11726) </br>
+
+백준 12100번 G1
+[2048 (Easy)](https://www.acmicpc.net/problem/12100) </br>
 
 
 <br />
