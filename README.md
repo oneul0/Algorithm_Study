@@ -20,6 +20,7 @@
   <tr>
     <td>언어</td>
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Cpp-0367A6.svg?&style=for-the-badge&logo=Cpp&logoColor=white"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </td>
   </tr>
@@ -42,7 +43,9 @@
       <td align="center"><a href="https://github.com/jy6443"><b>김준영</b></td>
   </tr>
   <tr> 
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Cpp-0367A6.svg?&style=for-the-badge&logo=Cpp&logoColor=white"> </td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
     <td align="center">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></br>
