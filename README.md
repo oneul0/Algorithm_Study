@@ -20,7 +20,7 @@
   <tr>
     <td>언어</td>
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"> 
-        <img src="https://img.shields.io/badge/C++-0367A6.svg?&style=for-the-badge&logo=C++18&logoColor=white"> 
+        <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </td>
   </tr>
@@ -45,7 +45,7 @@
   <tr> 
     <td align="center">
       <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"> </br>
-        <img src="https://img.shields.io/badge/C++-0367A6.svg?&style=for-the-badge&logo=C++18&logoColor=white">  </td>
+        <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white">   </td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"> </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"> 
