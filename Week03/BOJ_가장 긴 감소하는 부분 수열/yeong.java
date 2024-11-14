@@ -8,7 +8,7 @@ public class Main {
         int[] arr = new int[n+1];
         int result = 0;
         StringTokenizer st = new StringTokenizer(br.readLine());
-        for(int i = 1; i <= n ;i++){
+        for(int i = 1; i <= n ;i++){ // 수열의 길이는 1부터 시작하기 때문
             arr[i] = Integer.parseInt(st.nextToken());
         }
         int[] dp = new int[n+1];
