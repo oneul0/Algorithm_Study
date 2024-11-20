@@ -71,18 +71,18 @@
 </br>
 
 ## 필수 문제
-2024 KAKAO WINTER INTERNSHIP L2
-[도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) </br>
+2022 KAKAO TECH INTERNSHIP L1
+[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) </br>
 
-백준 11722번 S2
-[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) </br>
+백준 12015번 G2
+[가장 긴 감소하는 부분 수열2](https://www.acmicpc.net/problem/12015) </br>
 
-백준 4485번 G4 
-[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) </br>
+백준 14890번 G3 
+[경사로](https://www.acmicpc.net/problem/14890) </br>
 
 ## 선택 문제
-백준 11726번 S3
-[2×n 타일링](https://www.acmicpc.net/problem/11726) </br>
+2024 KAKAO WINTER INTERNSHIP L3
+[산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) </br>
 
 백준 12100번 G1
 [2048 (Easy)](https://www.acmicpc.net/problem/12100) </br>
