@@ -87,6 +87,12 @@
 백준 12100번 G1
 [2048 (Easy)](https://www.acmicpc.net/problem/12100) </br>
 
+</br>
+
+## 특별 문제
+백준 14003번 P1
+[가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) </br>
+
 
 <br />
 
