@@ -71,25 +71,19 @@
 </br>
 
 ## 필수 문제
-2022 KAKAO TECH INTERNSHIP L1
-[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) </br>
+백준 1197번 G4 - 최소 스패닝 트리 알고리즘으로 풀어주세요!
+[최소 스패닝 트리](https://www.acmicpc.net/problem/1197) </br>
 
-백준 12015번 G2
-[가장 긴 감소하는 부분 수열2](https://www.acmicpc.net/problem/12015) </br>
+백준 16493번 S2
+[최대 페이지 수](https://www.acmicpc.net/problem/16493) </br>
 
-백준 14890번 G3 
-[경사로](https://www.acmicpc.net/problem/14890) </br>
+백준 9251번 G5 
+[LCS](https://www.acmicpc.net/problem/9251) </br>
 
 ## 선택 문제
-2024 KAKAO WINTER INTERNSHIP L3
-[산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) </br>
+PCCP 기출문제 3번 L2
+[충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) </br>
 
-백준 12100번 G1
-[2048 (Easy)](https://www.acmicpc.net/problem/12100) </br>
-
-</br>
-
-## 특별 문제
 백준 14003번 P5
 [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) </br>
 
