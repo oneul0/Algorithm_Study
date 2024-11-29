@@ -71,21 +71,21 @@
 </br>
 
 ## 필수 문제
-백준 1197번 G4 - 최소 스패닝 트리 알고리즘으로 풀어주세요!
-[최소 스패닝 트리](https://www.acmicpc.net/problem/1197) </br>
+2020 KAKAO BLIND RECRUITMENT L3
+[블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063) </br>
 
-백준 16493번 S2
-[최대 페이지 수](https://www.acmicpc.net/problem/16493) </br>
+2022 KAKAO BLIND RECRUITMENT L3
+[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) </br>
 
-백준 9251번 G5 
-[LCS](https://www.acmicpc.net/problem/9251) </br>
+코딩테스트 연습 L2
+[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) </br>
 
 ## 선택 문제
-PCCP 기출문제 3번 L2
-[충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) </br>
+백준 14002번 G4
+[가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) </br>
 
-백준 14003번 P5
-[가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) </br>
+코딩테스트 연습 L1
+[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) </br>
 
 
 <br />
