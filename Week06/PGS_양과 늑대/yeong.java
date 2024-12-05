@@ -20,7 +20,7 @@ class Solution {
         dfs(0, 0, 0, initialNodes, info);
 
         return maxSheep;
-    } 
+    }
 
     private void dfs(int node, int sheep, int wolf, List<Integer> possibleNodes, int[] info) {
         // 현재 노드의 동물에 따라 양 또는 늑대 수 증가
