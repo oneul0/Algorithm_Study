@@ -71,21 +71,21 @@
 </br>
 
 ## 필수 문제
-2020 KAKAO BLIND RECRUITMENT L3
-[블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063) </br>
+Programmers 코딩테스트 연습 L2
+[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) </br>
 
-2022 KAKAO BLIND RECRUITMENT L3
-[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) </br>
+백준 1655번 G2
+[가운데를 말해요](https://www.acmicpc.net/problem/1655) </br>
 
-코딩테스트 연습 L2
-[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) </br>
+백준 1240 G5
+[노드사이의 거리](https://www.acmicpc.net/problem/1240) </br>
 
 ## 선택 문제
-백준 14002번 G4
-[가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) </br>
+백준 20055번 G5
+[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) </br>
 
-코딩테스트 연습 L1
-[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) </br>
+백준 1991번 S1
+[트리 순회](https://www.acmicpc.net/problem/1991) </br>
 
 
 <br />
