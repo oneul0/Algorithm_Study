@@ -72,20 +72,20 @@
 
 ## 필수 문제
 Programmers 코딩테스트 연습 L2
-[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) </br>
+[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) </br>
 
-백준 1655번 G2
-[가운데를 말해요](https://www.acmicpc.net/problem/1655) </br>
+백준 20057번 G3
+[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) </br>
 
-백준 1240 G5
-[노드사이의 거리](https://www.acmicpc.net/problem/1240) </br>
+백준 1976 G4
+[여행 가자](https://www.acmicpc.net/problem/1976) </br>
 
 ## 선택 문제
-백준 20055번 G5
-[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) </br>
+Programmers 월간 코드 챌린지 시즌1 L2
+[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) </br>
 
-백준 1991번 S1
-[트리 순회](https://www.acmicpc.net/problem/1991) </br>
+Programmers 2021 Dev-Matching: 웹 백엔드 개발자(상반기) L3
+[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) </br>
 
 
 <br />
