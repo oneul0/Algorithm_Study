@@ -85,7 +85,7 @@
 [달팽이3](https://www.acmicpc.net/problem/1959) </br>
 
 ## 선택 문제
-Programmers 월간 코드 챌린지 시즌1 L2
+▲🐌Programmers 월간 코드 챌린지 시즌1 L2
 [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) </br>
 
 Programmers 2021 Dev-Matching: 웹 백엔드 개발자(상반기) L3
