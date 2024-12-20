@@ -1,5 +1,5 @@
 ---
-
+## 24.12.20 ~ 24.12.27 2주간 금요일 알고리즘 해설만 진행합니다!
 <table>
   <tr>
     <td>진행 기간</td>
@@ -71,14 +71,18 @@
 </br>
 
 ## 필수 문제
-Programmers 코딩테스트 연습 L2
-[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) </br>
 
-백준 20057번 G3
-[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) </br>
+🐌💭↗️백준 2869번 B1
+[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) </br>
 
-백준 1976 G4
-[여행 가자](https://www.acmicpc.net/problem/1976) </br>
+🐌백준 1952번 B1
+[달팽이2](https://www.acmicpc.net/problem/1952) </br>
+
+🐌백준 1913번 S3
+[달팽이](https://www.acmicpc.net/problem/1913) </br>
+
+🐌백준 1959 G3
+[달팽이3](https://www.acmicpc.net/problem/1959) </br>
 
 ## 선택 문제
 Programmers 월간 코드 챌린지 시즌1 L2
