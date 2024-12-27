@@ -25,6 +25,4 @@ class Solution {
         tower.add(new int[]{start, end});
         hanoi(cnt - 1, sub, end, start); // 보조 -> 목표 옮김
     }
-
-
 }
