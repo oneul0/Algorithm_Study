@@ -72,17 +72,15 @@
 
 ## 필수 문제
 
-🐌💭↗️백준 2869번 B1
-[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) </br>
+백준 1406번 S2
+[에디터](https://www.acmicpc.net/problem/1406) </br>
 
-🐌백준 1952번 B1
-[달팽이2](https://www.acmicpc.net/problem/1952) </br>
+백준 2178번 S1
+[미로 탐색](https://www.acmicpc.net/problem/2178) </br>
 
-🐌백준 1913번 S3
-[달팽이](https://www.acmicpc.net/problem/1913) </br>
+백준 1613번 G3
+[역사](https://www.acmicpc.net/problem/1613) </br>
 
-🐌백준 1959 G3
-[달팽이3](https://www.acmicpc.net/problem/1959) </br>
 
 ## 선택 문제
 ▲🐌Programmers 월간 코드 챌린지 시즌1 L2
