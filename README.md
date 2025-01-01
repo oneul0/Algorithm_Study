@@ -81,9 +81,6 @@
 🔍백준 1613번 G3
 [역사](https://www.acmicpc.net/problem/1613) </br>
 
-🐌백준 1959 G3
-[달팽이3](https://www.acmicpc.net/problem/1959) </br>
-
 ## 선택 문제
 
 
