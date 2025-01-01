@@ -72,22 +72,17 @@
 
 ## 필수 문제
 
-백준 1406번 S2
+⌨️백준 1406번 S2
 [에디터](https://www.acmicpc.net/problem/1406) </br>
 
-백준 2178번 S1
+🌀백준 2178번 S1
 [미로 탐색](https://www.acmicpc.net/problem/2178) </br>
 
-백준 1613번 G3
+🔍백준 1613번 G3
 [역사](https://www.acmicpc.net/problem/1613) </br>
 
-
 ## 선택 문제
-▲🐌Programmers 월간 코드 챌린지 시즌1 L2
-[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) </br>
 
-Programmers 2021 Dev-Matching: 웹 백엔드 개발자(상반기) L3
-[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) </br>
 
 
 <br />
