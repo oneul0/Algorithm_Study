@@ -11,15 +11,15 @@ public class Main {
         int n=Integer.valueOf(st.nextToken());
         int k=Integer.valueOf(st.nextToken());
 
-        //위상정렬 가중치 저장.
+        //위상정렬 가중치 저장
         int[] num=new int[n+1];
-        //포함관계 저장.
+        //포함관계 저장
         ArrayList<Integer>[] arr=new ArrayList[n+1];
         for(int i=1; i<=n; i++){
             arr[i]=new ArrayList<>();
         }
 
-        //관계 입력받기.
+        //관계 입력받기
         for(int i=0; i<k; i++){
             st=new StringTokenizer(br.readLine());
             int a=Integer.valueOf(st.nextToken());
@@ -29,7 +29,7 @@ public class Main {
             arr[b].add(a);
         }
 
-        //전 후 관계 저장 배열.
+        //전 후 관계 저장 배열
         boolean[][] value=new boolean[n+1][n+1];
 
         Queue<Integer> que=new LinkedList<>();
@@ -39,27 +39,27 @@ public class Main {
                 que.offer(i);
             }
         }
-        //앞서는 수의 행, 뒤의 수의 열에 true로 전후 관계 저장.
-        //dp로 전의 수가 포함하는 수를 모두 true로 바꾸어줌.
+        //앞서는 수의 행, 뒤의 수의 열에 true로 전후 관계 저장
+        //dp로 전의 수가 포함하는 수를 모두 true로 바꾸어줌
         while(!que.isEmpty()){
             int temp=que.poll();
 
             for(int i=0; i<arr[temp].size(); i++){
                 int t=arr[temp].get(i);
-                //temp 방문으로, 이를 이후 사건으로 갖는
-                //선행되는 역사들의 가중치를 낮품.
+                //temp 방문으로 이를 이후 사건으로 갖는
+                //선행되는 역사들의 가중치를 낮품
                 num[t]--;
                 if(num[t]==0){
                     que.offer(t);
                 }
-                //temp의 후에 일어나는 사건들을 t에 그대로 옮김.
-                //temp의 후에 일어나는 사건은 t의 이후에 일어나는 사건임.
+                //temp의 후에 일어나는 사건들을 t에 그대로 옮김
+                //temp의 후에 일어나는 사건은 t의 이후에 일어나는 사건
                 for(int j=1; j<=n; j++){
                     if(value[temp][j]){
                         value[t][j]=true;
                     }
                 }
-                //t에 temp사건 추가하기.(temp 배열에 체크가 안되어있기 때문에 해주어야함.
+                //t에 temp사건 추가하기 (temp 배열에 체크가 안되어있기 때문에 해주어야 함)
                 value[t][temp]=true;
             }
         }
@@ -86,7 +86,6 @@ public class Main {
         }
 
         bw.flush();
-
 
     }
 }
