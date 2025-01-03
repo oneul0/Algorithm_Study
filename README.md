@@ -88,6 +88,9 @@
 🏙️백준 11404번 G4
 [플로이드](https://www.acmicpc.net/problem/11404) </br>
 
+📓백준 14567번 G5
+[선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567) </br>
+
 <br />
 
 ### :pencil: Rule  
