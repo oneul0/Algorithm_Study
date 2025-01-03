@@ -41,6 +41,7 @@ class Solution {
 
             // answer에 들어갈 값을 넣어주기
             if(totalService > answer[0] || (totalService == answer[0] && totalCost > answer[1])){
+                // 임티 가입자 수가 더 많을 경우 OR 임티 가입자수 동일한데 비용이 더 큰경우
                 answer[0] = totalService;
                 answer[1] = totalCost;
             }
@@ -50,7 +51,7 @@ class Solution {
         return answer;
     }
 
-    // 모든 조합 계산
+    // 모든 조합 계산(중복 순열)
     private void comb(int[] rates, List<Integer> current, List<List<Integer>> output, int size) {
 
         if(current.size() == size) {
