@@ -72,18 +72,21 @@
 
 ## 필수 문제
 
-⌨️백준 1406번 S2
-[에디터](https://www.acmicpc.net/problem/1406) </br>
+📹백준 15683번 G3
+[감시](https://www.acmicpc.net/problem/15683) </br>
 
-🌀백준 2178번 S1
-[미로 탐색](https://www.acmicpc.net/problem/2178) </br>
+🍯백준 12847번 S3
+[꿀 아르바이트](https://www.acmicpc.net/problem/12847) </br>
 
-🔍백준 1613번 G3
-[역사](https://www.acmicpc.net/problem/1613) </br>
+🇦백준 12904번 G5
+[A와 B](https://www.acmicpc.net/problem/12904) </br>
 
 ## 선택 문제
+🧪백준 2178번 G5
+[두 용액](https://www.acmicpc.net/problem/2470) </br>
 
-
+🏙️백준 11404번 G4
+[플로이드](https://www.acmicpc.net/problem/11404) </br>
 
 <br />
 
