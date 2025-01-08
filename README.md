@@ -82,7 +82,7 @@
 [A와 B](https://www.acmicpc.net/problem/12904) </br>
 
 ## 선택 문제
-🧪백준 2178번 G5
+🧪백준 2470번 G5
 [두 용액](https://www.acmicpc.net/problem/2470) </br>
 
 🏙️백준 11404번 G4
