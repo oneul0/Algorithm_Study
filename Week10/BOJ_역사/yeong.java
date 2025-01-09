@@ -6,35 +6,35 @@ public class Main {
 
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw=new BufferedWriter(new OutputStreamWriter(System.out));
-        StringTokenizer st=new StringTokenizer(br.readLine());
+        StringTokenizer st=new StringTokenizer(br.readLine()); // 입력 문자열을 분리하기 위한 StringTokenizer 생성
 
-        int n=Integer.valueOf(st.nextToken());
+        int n=Integer.valueOf(st.nextToken()); // 첫 번째 줄에서 사건의 개수 n과 사건 간의 전후 관계의 개수 k를 입력받음
         int k=Integer.valueOf(st.nextToken());
 
-        //위상정렬 가중치 저장
+        //위상정렬 가중치 저장 , 각 사건의 진입 차수(선행 사건의 수)를 저장하는 배열
         int[] num=new int[n+1];
-        //포함관계 저장
+        //포함관계 저장 , 각 사건의 후행 사건들을 저장하는 ArrayList 배열
         ArrayList<Integer>[] arr=new ArrayList[n+1];
         for(int i=1; i<=n; i++){
             arr[i]=new ArrayList<>();
         }
 
-        //관계 입력받기
+        //관계 입력받기 , k개의 전후 관계 입력 받기
         for(int i=0; i<k; i++){
             st=new StringTokenizer(br.readLine());
             int a=Integer.valueOf(st.nextToken());
             int b=Integer.valueOf(st.nextToken());
 
-            num[a]++;
-            arr[b].add(a);
+            num[a]++; // b의 선행 사건 수 증가
+            arr[b].add(a); // a의 후행 사건으로 b 추가
         }
 
-        //전 후 관계 저장 배열
+        //전 후 관계 저장 2차원 배열
         boolean[][] value=new boolean[n+1][n+1];
-
+        // 위상 정렬을 위한 큐 생성
         Queue<Integer> que=new LinkedList<>();
         //위상정렬 그래프 돌면서, value관계 저장.
-        for(int i=1; i<=n; i++){
+        for(int i=1; i<=n; i++){ // 진입 차수가 0인 사건(시작점)을 큐에 추가
             if(num[i]==0){
                 que.offer(i);
             }
@@ -47,7 +47,7 @@ public class Main {
             for(int i=0; i<arr[temp].size(); i++){
                 int t=arr[temp].get(i);
                 //temp 방문으로 이를 이후 사건으로 갖는
-                //선행되는 역사들의 가중치를 낮품
+                //선행되는 역사들의 가중치를 낮춤
                 num[t]--;
                 if(num[t]==0){
                     que.offer(t);
@@ -63,7 +63,7 @@ public class Main {
                 value[t][temp]=true;
             }
         }
-
+        // 질문의 개수 s 입력 받기
         int s=Integer.valueOf(br.readLine());
         for(int i=0; i<s; i++){
             st=new StringTokenizer(br.readLine());
