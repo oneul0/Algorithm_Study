@@ -1,5 +1,4 @@
 ---
-## 24.12.21 ~ 25.01.03 2주간 금요일 알고리즘 해설만 진행합니다!
 <table>
   <tr>
     <td>진행 기간</td>
@@ -72,24 +71,24 @@
 
 ## 필수 문제
 
-📹백준 15683번 G3
-[감시](https://www.acmicpc.net/problem/15683) </br>
+프로그래머스 2021 카카오 채용연계형 인턴십 L3
+[표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) </br>
 
-🍯백준 12847번 S3
-[꿀 아르바이트](https://www.acmicpc.net/problem/12847) </br>
+백준 1697번 S1
+[숨바꼭질](https://www.acmicpc.net/problem/1697) </br>
 
-🇦백준 12904번 G5
-[A와 B](https://www.acmicpc.net/problem/12904) </br>
+백준 12919번 G5
+[A와 B 2](https://www.acmicpc.net/problem/12919) </br>
 
 ## 선택 문제
-🧪백준 2470번 G5
-[두 용액](https://www.acmicpc.net/problem/2470) </br>
+백준 2042번 G1
+[구간 합 구하기](https://www.acmicpc.net/problem/2042) </br>
 
-🏙️백준 11404번 G4
-[플로이드](https://www.acmicpc.net/problem/11404) </br>
+프로그래머스 연습문제 L3
+[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) </br>
 
-📓백준 14567번 G5
-[선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567) </br>
+백준 11659 S3
+[구간 합 구하기 4](https://www.acmicpc.net/problem/11659) </br>
 
 <br />
 
