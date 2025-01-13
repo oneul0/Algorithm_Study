@@ -41,7 +41,7 @@
       <td align="center"><a href="https://github.com/kUZEEwon"><b>구지원</b></td>
       <td align="center"><a href="https://github.com/feijoazoa"><b>장은영</b></td>
       <td align="center"><a href="https://github.com/jy6443"><b>김준영</b></td>
-      <td align="center"><a href="https://github.com/jy6443"><b>김윤회</b></td>
+      <td align="center"><a href="https://github.com/051198Hz"><b>김윤회</b></td>
   </tr>
   <tr> 
     <td align="center">
