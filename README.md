@@ -76,24 +76,27 @@
 
 ## 필수 문제
 
-프로그래머스 2021 카카오 채용연계형 인턴십 L3
-[표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) </br>
+백준 11049 G3
+[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) </br>
 
-백준 1697번 S1
-[숨바꼭질](https://www.acmicpc.net/problem/1697) </br>
+백준 13251번 S3
+[조약돌 꺼내기](https://www.acmicpc.net/problem/13251) </br>
 
-백준 12919번 G5
-[A와 B 2](https://www.acmicpc.net/problem/12919) </br>
+프로그래머스 2024 KAKAO WINTER INTERNSHIP L3
+[산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) </br>
 
 ## 선택 문제
-백준 2042번 G1
-[구간 합 구하기](https://www.acmicpc.net/problem/2042) </br>
+프로그래머스 2019 카카오 개발자 겨울 인턴십 L3
+[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) </br>
 
-프로그래머스 연습문제 L3
-[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) </br>
+백준 10986번 G3
+[나머지 합](https://www.acmicpc.net/problem/10986) </br>
 
-백준 11659 S3
-[구간 합 구하기 4](https://www.acmicpc.net/problem/11659) </br>
+백준 4179번 G3
+[불!](https://www.acmicpc.net/problem/4179) </br>
+
+백준 9466번 G3
+[텀 프로젝트](https://www.acmicpc.net/problem/9466) </br>
 
 <br />
 
