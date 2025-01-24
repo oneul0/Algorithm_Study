@@ -1,3 +1,10 @@
+
+## 즐거운 연휴 되세요! 다음 스터디는 2월 3일부터 진행합니다.
+
+## This Week Playlist
+
+[![ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭](https://github.com/user-attachments/assets/feb5c6ab-b258-44de-897a-4872ac27fdb8)](https://youtu.be/SJ_AqcH1OUQ?si=BPnOdcbRgBKzjkAg)
+
 ---
 <table>
   <tr>
@@ -25,9 +32,6 @@
   </tr>
 </table>
 
-## This Week Playlist
-
-[![ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭](https://github.com/user-attachments/assets/feb5c6ab-b258-44de-897a-4872ac27fdb8)](https://youtu.be/SJ_AqcH1OUQ?si=BPnOdcbRgBKzjkAg)
 ## 👩‍👦‍👦 **스터디 멤버**
 <table>
  <tr>
