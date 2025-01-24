@@ -24,6 +24,7 @@
     </td>
   </tr>
 </table>
+
 ## 코딩할 때 듣기 좋을 것 같은 노래
 
 [![ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭](https://github.com/user-attachments/assets/feb5c6ab-b258-44de-897a-4872ac27fdb8)](https://youtu.be/SJ_AqcH1OUQ?si=BPnOdcbRgBKzjkAg)
