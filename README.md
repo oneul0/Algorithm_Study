@@ -24,6 +24,9 @@
     </td>
   </tr>
 </table>
+## 코딩할 때 듣기 좋을 것 같은 노래
+
+[![ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭]()](https://www.youtube.com/watch?v=SJ_AqcH1OUQ)
 
 ## 👩‍👦‍👦 **스터디 멤버**
 <table>
