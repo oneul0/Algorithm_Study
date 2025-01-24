@@ -26,8 +26,7 @@
 </table>
 ## 코딩할 때 듣기 좋을 것 같은 노래
 
-[![ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭](![Image](https://github.com/user-attachments/assets/feb5c6ab-b258-44de-897a-4872ac27fdb8))](https://youtu.be/SJ_AqcH1OUQ?si=BPnOdcbRgBKzjkAg)
-
+[![ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭ ‭](https://github.com/user-attachments/assets/feb5c6ab-b258-44de-897a-4872ac27fdb8)](https://youtu.be/SJ_AqcH1OUQ?si=BPnOdcbRgBKzjkAg)
 ## 👩‍👦‍👦 **스터디 멤버**
 <table>
  <tr>
