@@ -76,27 +76,24 @@
 
 ## 필수 문제
 
-백준 11049 G3
-[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) </br>
-
-백준 13251번 S3
-[조약돌 꺼내기](https://www.acmicpc.net/problem/13251) </br>
-
-프로그래머스 2024 KAKAO WINTER INTERNSHIP L3
-[산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) </br>
-
-## 선택 문제
-프로그래머스 2019 카카오 개발자 겨울 인턴십 L3
-[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) </br>
-
-백준 10986번 G3
-[나머지 합](https://www.acmicpc.net/problem/10986) </br>
-
-백준 4179번 G3
-[불!](https://www.acmicpc.net/problem/4179) </br>
-
 백준 9466번 G3
 [텀 프로젝트](https://www.acmicpc.net/problem/9466) </br>
+
+프로그래머스 2024 KAKAO WINTER INTERNSHIP L3
+[n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) </br>
+
+백준 12891번 S2
+[DNA 비밀번호](https://www.acmicpc.net/problem/12891) </br>
+
+## 선택 문제
+백준 21608번 G5
+[상어 초등학교](https://www.acmicpc.net/problem/21608) </br>
+
+백준 1922번 G4
+[네트워크 연결](https://www.acmicpc.net/problem/1922) </br>
+
+백준 2179번 G4
+[비슷한 단어](https://www.acmicpc.net/problem/2179) </br>
 
 <br />
 
