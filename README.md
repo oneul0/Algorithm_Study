@@ -77,24 +77,24 @@
 
 ## 필수 문제
 
-백준 9466번 G3
-[텀 프로젝트](https://www.acmicpc.net/problem/9466) </br>
+프로그래머스 2020 KAKAO BLIND RECRUITMENT L2
+[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) </br>
 
-프로그래머스 2024 KAKAO WINTER INTERNSHIP L3
-[n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) </br>
+프로그래머스 2020 카카오 인턴십 경주로 건설 L3
+[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) </br>
 
-백준 12891번 S2
-[DNA 비밀번호](https://www.acmicpc.net/problem/12891) </br>
+백준 2293번 G4
+[동전 1](https://www.acmicpc.net/problem/2293) </br>
 
 ## 선택 문제
-백준 21608번 G5
-[상어 초등학교](https://www.acmicpc.net/problem/21608) </br>
+백준 17404번 G4
+[RGB거리 2](https://www.acmicpc.net/problem/17404) </br>
 
-백준 1922번 G4
-[네트워크 연결](https://www.acmicpc.net/problem/1922) </br>
+프로그래머스 코딩테스트 연습 L3
+[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) </br>
 
-백준 2179번 G4
-[비슷한 단어](https://www.acmicpc.net/problem/2179) </br>
+프로그래머스 코딩테스트 연습 L3
+[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) </br>
 
 <br />
 
