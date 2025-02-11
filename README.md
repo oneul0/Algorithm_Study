@@ -81,7 +81,7 @@
 [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) </br>
 
 프로그래머스 2020 카카오 인턴십 경주로 건설 L3
-[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/258707) </br>
+[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) </br>
 
 백준 2293번 G4
 [동전 1](https://www.acmicpc.net/problem/2293) </br>
