@@ -77,24 +77,24 @@
 
 ## 필수 문제
 
-프로그래머스 2020 KAKAO BLIND RECRUITMENT L2
-[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) </br>
+2021 KAKAO BLIND RECRUITMENT L3
+[카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415) </br>
 
-프로그래머스 2020 카카오 인턴십 경주로 건설 L3
-[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) </br>
+2022 KAKAO TECH INTERNSHIP L3
+[코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) </br>
 
-백준 2293번 G4
-[동전 1](https://www.acmicpc.net/problem/2293) </br>
+백준 2294번 G5
+[동전 2](https://www.acmicpc.net/problem/2294) </br>
 
 ## 선택 문제
-백준 17404번 G4
-[RGB거리 2](https://www.acmicpc.net/problem/17404) </br>
+2023 KAKAO BLIND RECRUITMENT L4
+[1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) </br>
 
-프로그래머스 코딩테스트 연습 L3
-[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) </br>
+백준 1106번 G4
+[호텔](https://www.acmicpc.net/problem/1106) </br>
 
-프로그래머스 코딩테스트 연습 L3
-[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) </br>
+2021 카카오 채용연계형 인턴십 L3
+[시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305) </br>
 
 <br />
 
