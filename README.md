@@ -30,18 +30,12 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/oneul0"><img src="https://avatars.githubusercontent.com/oneul0" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/platypus3036"><img src="https://avatars.githubusercontent.com/platypus3036" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/kUZEEwon"><img src="https://avatars.githubusercontent.com/kUZEEwon" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/feijoazoa"><img src="https://avatars.githubusercontent.com/feijoazoa" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/jy6443"><img src="https://avatars.githubusercontent.com/jy6443" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/051198Hz"><img src="https://avatars.githubusercontent.com/051198Hz" width="150px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/oneul0"><b>김기훈</b></td>
-    <td align="center"><a href="https://github.com/platypus3036"><b>배재유</b></td>
       <td align="center"><a href="https://github.com/kUZEEwon"><b>구지원</b></td>
-      <td align="center"><a href="https://github.com/feijoazoa"><b>장은영</b></td>
-      <td align="center"><a href="https://github.com/jy6443"><b>김준영</b></td>
       <td align="center"><a href="https://github.com/051198Hz"><b>김윤회</b></td>
   </tr>
   <tr> 
@@ -63,10 +57,24 @@
     </td>
   </tr> 
 </table>
+ </br>
+        
+## 🎓 **졸업 멤버**
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/platypus3036"><img src="https://avatars.githubusercontent.com/platypus3036" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/feijoazoa"><img src="https://avatars.githubusercontent.com/feijoazoa" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/jy6443"><img src="https://avatars.githubusercontent.com/jy6443" width="150px;" alt=""></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/platypus3036"><b>배재유</b></td>
+      <td align="center"><a href="https://github.com/feijoazoa"><b>장은영</b></td>
+      <td align="center"><a href="https://github.com/jy6443"><b>김준영</b></td>
+  </tr>
+</table>
 
 <br />
 
-<br />
 
 
 ### 🟨 이번 주 문제
