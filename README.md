@@ -77,14 +77,14 @@
 
 ## 필수 문제
 
-2021 KAKAO BLIND RECRUITMENT L3
-[카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415) </br>
+백준 1600번 G3
+[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) </br>
 
-2022 KAKAO TECH INTERNSHIP L3
-[코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) </br>
+백준 1647번 G3
+[도시 분할 계획](https://www.acmicpc.net/problem/1647) </br>
 
-백준 2294번 G5
-[동전 2](https://www.acmicpc.net/problem/2294) </br>
+2018 KAKAO BLIND RECRUITMENT L4
+[[3차] 자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685) </br>
 
 ## 선택 문제
 2023 KAKAO BLIND RECRUITMENT L4
