@@ -82,7 +82,7 @@
 백준 1600번 G3
 [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) </br>
 
-백준 1647번 G3
+백준 1647번 G4
 [도시 분할 계획](https://www.acmicpc.net/problem/1647) </br>
 
 2018 KAKAO BLIND RECRUITMENT L4
