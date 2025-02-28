@@ -79,24 +79,24 @@
 
 ## 필수 문제
 
-백준 1600번 G3
-[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) </br>
+백준 6497번 G4
+[전력난](https://www.acmicpc.net/problem/6497) </br>
 
-백준 1647번 G4
-[도시 분할 계획](https://www.acmicpc.net/problem/1647) </br>
+백준 7432번 G3
+[디스크 트리](https://www.acmicpc.net/problem/7432) </br>
 
-2018 KAKAO BLIND RECRUITMENT L4
-[[3차] 자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685) </br>
+백준 14725번 G3
+[개미굴](https://www.acmicpc.net/problem/14725) </br>
 
 ## 선택 문제
-2023 KAKAO BLIND RECRUITMENT L4
-[1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) </br>
+백준 1333번 B1
+[부재중 전화](https://www.acmicpc.net/problem/1333) </br>
 
-백준 1106번 G4
-[호텔](https://www.acmicpc.net/problem/1106) </br>
+백준 9205번 G5
+[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) </br>
 
-2021 카카오 채용연계형 인턴십 L3
-[시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305) </br>
+백준 17404번 G4
+[RGB거리 2](https://www.acmicpc.net/problem/17404) </br>
 
 <br />
 
