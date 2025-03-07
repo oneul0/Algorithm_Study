@@ -77,24 +77,27 @@
 
 ## 필수 문제
 
-백준 6497번 G4
-[전력난](https://www.acmicpc.net/problem/6497) </br>
+백준 16234번 G4
+[인구 이동](https://www.acmicpc.net/problem/16234) </br>
 
-백준 7432번 G3
-[디스크 트리](https://www.acmicpc.net/problem/7432) </br>
+백준 14719번 G5
+[빗물](https://www.acmicpc.net/problem/14719) </br>
 
-백준 14725번 G3
-[개미굴](https://www.acmicpc.net/problem/14725) </br>
+백준 20055번 G5
+[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) </br>
 
 ## 선택 문제
-백준 1333번 B1
-[부재중 전화](https://www.acmicpc.net/problem/1333) </br>
+백준 2531번 S1
+[회전 초밥](https://www.acmicpc.net/problem/2531) </br>
 
-백준 9205번 G5
-[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) </br>
+2025 프로그래머스 코드챌린지 2차 예선 L2
+[서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) </br>
 
-백준 17404번 G4
-[RGB거리 2](https://www.acmicpc.net/problem/17404) </br>
+백준 1238번 G3
+[파티](https://www.acmicpc.net/problem/1238) </br>
+
+백준 2631번 G4
+[줄세우기](https://www.acmicpc.net/problem/2631) </br>
 
 <br />
 
