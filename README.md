@@ -77,18 +77,18 @@
 
 ## 필수 문제
 
-프로그래머스 코딩테스트 연습 2025 프로그래머스 코드챌린지 2차 예선 L2
-[완전 범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) </br>
+프로그래머스 2023 현대모비스 알고리즘 경진대회 예선 L3
+[에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289) </br>
 
-백준 3584번 G4
-[가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) </br>
+월간 코드 챌린지 시즌3 L3
+[공 이동 시뮬레이션](https://school.programmers.co.kr/learn/courses/30/lessons/87391) </br>
 
-백준 14499번 G4
-[주사위 굴리기](https://www.acmicpc.net/problem/14499) </br>
+LeetCode Medium
+[Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies) </br>
 
 ## 선택 문제
-백준 2531번 S1
-[회전 초밥](https://www.acmicpc.net/problem/2531) </br>
+LeetCode Medium
+[Game of Life](https://leetcode.com/problems/game-of-life) </br>
 
 2025 프로그래머스 코드챌린지 2차 예선 L2
 [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) </br>
