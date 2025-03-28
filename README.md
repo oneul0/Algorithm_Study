@@ -77,14 +77,14 @@
 
 ## 필수 문제
 
-프로그래머스 2023 현대모비스 알고리즘 경진대회 예선 L3
-[에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289) </br>
+백준 1759번 G5
+[암호 만들기](https://www.acmicpc.net/problem/1759) </br>
 
-월간 코드 챌린지 시즌3 L3
-[공 이동 시뮬레이션](https://school.programmers.co.kr/learn/courses/30/lessons/87391) </br>
+백준 1043번 G4
+[거짓말](https://www.acmicpc.net/problem/1043) </br>
 
-LeetCode Medium
-[Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies) </br>
+백준 20413번 S2
+[MVP 다이아몬드 (Easy)](https://www.acmicpc.net/problem/20413) </br>
 
 ## 선택 문제
 LeetCode Medium
