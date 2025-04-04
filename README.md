@@ -77,21 +77,18 @@
 
 ## 필수 문제
 
-백준 1759번 G5
-[암호 만들기](https://www.acmicpc.net/problem/1759) </br>
+백준 15686번 G5
+[치킨 배달](https://www.acmicpc.net/problem/15686) </br>
 
-백준 1043번 G4
-[거짓말](https://www.acmicpc.net/problem/1043) </br>
+2023 현대모비스 알고리즘 경진대회 예선 L3
+[상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288) </br>
 
-백준 20413번 S2
-[MVP 다이아몬드 (Easy)](https://www.acmicpc.net/problem/20413) </br>
+2021 KAKAO BLIND RECRUITMENT L3
+[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) </br>
 
 ## 선택 문제
-LeetCode Medium
-[Game of Life](https://leetcode.com/problems/game-of-life) </br>
-
-2025 프로그래머스 코드챌린지 2차 예선 L2
-[서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) </br>
+연습문제 L3
+[2차원 동전 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/132266) </br>
 
 백준 1238번 G3
 [파티](https://www.acmicpc.net/problem/1238) </br>
