@@ -77,24 +77,18 @@
 
 ## 필수 문제
 
-백준 15686번 G5
-[치킨 배달](https://www.acmicpc.net/problem/15686) </br>
+2024 KAKAO WINTER INTERNSHIP L1
+[가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) </br>
 
-2023 현대모비스 알고리즘 경진대회 예선 L3
-[상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288) </br>
+백준 15684번 G3
+[사다리 조작](https://www.acmicpc.net/problem/15684) </br>
 
-2021 KAKAO BLIND RECRUITMENT L3
-[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) </br>
+2022 KAKAO BLIND RECRUITMENT L3
+[사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) </br>
 
 ## 선택 문제
-연습문제 L3
-[2차원 동전 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/132266) </br>
 
-백준 1238번 G3
-[파티](https://www.acmicpc.net/problem/1238) </br>
-
-백준 2631번 G4
-[줄세우기](https://www.acmicpc.net/problem/2631) </br>
+-
 
 <br />
 
