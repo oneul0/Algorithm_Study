@@ -77,14 +77,14 @@
 
 ## 필수 문제
 
-2024 KAKAO WINTER INTERNSHIP L1
-[가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) </br>
+백준 1405번 G4
+[미친 로봇](https://www.acmicpc.net/problem/1405) </br>
 
-백준 15684번 G3
-[사다리 조작](https://www.acmicpc.net/problem/15684) </br>
+백준 20208번 G5
+[진우의 민트초코우유](https://www.acmicpc.net/problem/20208) </br>
 
-2022 KAKAO BLIND RECRUITMENT L3
-[사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) </br>
+백준 2186번 G3
+[문자판](https://www.acmicpc.net/problem/2186) </br>
 
 ## 선택 문제
 
