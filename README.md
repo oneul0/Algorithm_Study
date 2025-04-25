@@ -77,14 +77,14 @@
 
 ## 필수 문제
 
-백준 1405번 G4
-[미친 로봇](https://www.acmicpc.net/problem/1405) </br>
+백준 7579번 G3
+[앱](https://www.acmicpc.net/problem/7579) </br>
 
-백준 20208번 G5
-[진우의 민트초코우유](https://www.acmicpc.net/problem/20208) </br>
+백준 1005번 G3
+[ACM Craft](https://www.acmicpc.net/problem/1005) </br>
 
-백준 2186번 G3
-[문자판](https://www.acmicpc.net/problem/2186) </br>
+백준 2342번 G3
+[Dance Dance Revolution](https://www.acmicpc.net/problem/2342) </br>
 
 ## 선택 문제
 
