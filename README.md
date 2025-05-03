@@ -77,14 +77,17 @@
 
 ## 필수 문제
 
-백준 7579번 G3
-[앱](https://www.acmicpc.net/problem/7579) </br>
+백준 3078번 G4
+[좋은 친구](https://www.acmicpc.net/problem/3078)  
 
-백준 1005번 G3
-[ACM Craft](https://www.acmicpc.net/problem/1005) </br>
+백준 23295번 G3
+[스터디 시간 정하기 1](https://www.acmicpc.net/problem/23295)  
 
-백준 2342번 G3
-[Dance Dance Revolution](https://www.acmicpc.net/problem/2342) </br>
+백준 6503번 G5
+[망가진 키보드](https://www.acmicpc.net/problem/6503)  
+
+백준 6503번 G5
+[망가진 키보드](https://www.acmicpc.net/problem/6503) </br>
 
 ## 선택 문제
 
