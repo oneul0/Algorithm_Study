@@ -86,8 +86,8 @@
 백준 6503번 G5
 [망가진 키보드](https://www.acmicpc.net/problem/6503)  
 
-백준 6503번 G5
-[망가진 키보드](https://www.acmicpc.net/problem/6503) </br>
+백준 2470번 G5
+[두 용액](https://www.acmicpc.net/problem/2470) </br>
 
 ## 선택 문제
 
