@@ -4,31 +4,32 @@ import java.util.*;
 public class Main {
   static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-  static int N, K;
-  static long ans = 0;
-  static Queue<String> q = new ArrayDeque<>();
-  static int[] len = new int[21];
   public static void main(String[] args) throws IOException {
+    int N = Integer.parseInt(br.readLine());
+    int[] arr = new int[N];
     StringTokenizer st = new StringTokenizer(br.readLine());
-    N = Integer.parseInt(st.nextToken());
-    K = Integer.parseInt(st.nextToken());
-
     for(int i = 0; i<N; i++){
-      String cur = br.readLine();
-      q.offer(cur);
-
-      len[cur.length()]++;
-
-      if(q.size() > K+1){
-        len[q.remove().length()]--;
-      }
-
-      ans += len[cur.length()]-1;
+      arr[i] = Integer.parseInt(st.nextToken());
     }
 
-    System.out.print(ans);
+    Arrays.sort(arr);
 
+    int l = 0, r = arr.length-1, goal = Integer.MAX_VALUE, tmpL = 0, tmpR = 0;
+    while(l<r){
+      int sum = arr[l] + arr[r];
+      if(Math.abs(sum) < goal){
+        goal = Math.abs(sum);
+        tmpL = l;
+        tmpR = r;
+      }
+      else if(sum < 0){
+        l++;
+      }
+      else{
+        r--;
+      }
+    }
+
+    System.out.print(arr[tmpL]+" "+arr[tmpR]);
   }
 }
-
-//등수의 차이가 K보다 잡거나 같으면서 이름의 길이가 같은 친구
