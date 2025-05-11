@@ -77,17 +77,17 @@
 
 ## 필수 문제
 
-백준 3078번 G4
-[좋은 친구](https://www.acmicpc.net/problem/3078)  
+백준 1715번 G4
+[카드 정렬하기](https://www.acmicpc.net/problem/1715)  
 
-백준 23295번 G3
-[스터디 시간 정하기 1](https://www.acmicpc.net/problem/23295)  
+백준 1202번 G2
+[보석 도둑](https://www.acmicpc.net/problem/1202)  
 
-백준 6503번 G5
-[망가진 키보드](https://www.acmicpc.net/problem/6503)  
+백준 14698번 G4
+[전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](https://www.acmicpc.net/problem/14698)  
 
-백준 2470번 G5
-[두 용액](https://www.acmicpc.net/problem/2470) </br>
+백준 1766번 G2
+[문제집](https://www.acmicpc.net/problem/1766) </br>
 
 ## 선택 문제
 
