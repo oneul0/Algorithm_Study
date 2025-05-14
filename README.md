@@ -30,22 +30,16 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/oneul0"><img src="https://avatars.githubusercontent.com/oneul0" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/kUZEEwon"><img src="https://avatars.githubusercontent.com/kUZEEwon" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/051198Hz"><img src="https://avatars.githubusercontent.com/051198Hz" width="150px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/oneul0"><b>김기훈</b></td>
-      <td align="center"><a href="https://github.com/kUZEEwon"><b>구지원</b></td>
       <td align="center"><a href="https://github.com/051198Hz"><b>김윤회</b></td>
   </tr>
   <tr> 
     <td align="center">
       <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"> </br>
         <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white">   </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">  </br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    </td>
     <td align="center">
       <img src="https://img.shields.io/badge/swift-F2F2F2.svg?&style=for-the-badge&logo=swift&logoColor=F23E2E"> </br>
     </td>
@@ -59,11 +53,13 @@
     <td align="center"><a href="https://github.com/platypus3036"><img src="https://avatars.githubusercontent.com/platypus3036" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/feijoazoa"><img src="https://avatars.githubusercontent.com/feijoazoa" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/jy6443"><img src="https://avatars.githubusercontent.com/jy6443" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/kUZEEwon"><img src="https://avatars.githubusercontent.com/kUZEEwon" width="150px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/platypus3036"><b>배재유</b></td>
       <td align="center"><a href="https://github.com/feijoazoa"><b>장은영</b></td>
       <td align="center"><a href="https://github.com/jy6443"><b>김준영</b></td>
+      <td align="center"><a href="https://github.com/kUZEEwon"><b>구지원</b></td>
   </tr>
 </table>
 
