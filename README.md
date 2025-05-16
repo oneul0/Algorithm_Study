@@ -85,9 +85,6 @@
 프로그래머스 L3
 [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366) </br>
 
-## 선택 문제
-
--
 
 <br />
 
