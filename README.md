@@ -73,17 +73,17 @@
 
 ## 필수 문제
 
-백준 1715번 G4
-[카드 정렬하기](https://www.acmicpc.net/problem/1715)  
+백준 4195번 G2
+[친구 네트워크](https://www.acmicpc.net/problem/4195)  
 
-백준 1202번 G2
-[보석 도둑](https://www.acmicpc.net/problem/1202)  
+백준 1939번 G3
+[중량제한](https://www.acmicpc.net/problem/1939)  
 
-백준 14698번 G4
-[전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](https://www.acmicpc.net/problem/14698)  
+프로그래머스 L4
+[가사 검색](https://school.programmers.co.kr/learn/courses/30/lessons/60060)  
 
-백준 1766번 G2
-[문제집](https://www.acmicpc.net/problem/1766) </br>
+프로그래머스 L3
+[표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366) </br>
 
 ## 선택 문제
 
