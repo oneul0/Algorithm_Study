@@ -73,20 +73,9 @@
 
 ## 필수 문제
 
-백준 4195번 G2
-[친구 네트워크](https://www.acmicpc.net/problem/4195)  
-
-백준 1939번 G3
-[중량제한](https://www.acmicpc.net/problem/1939)  
-
-프로그래머스 L4
-[가사 검색](https://school.programmers.co.kr/learn/courses/30/lessons/60060)  
-
-프로그래머스 L3
-[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)  
-
-프로그래머스 L3
-[표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366) </br>
+11725~20955까지
+[0x19강 - 트리](https://www.acmicpc.net/workbook/view/9657)  
+ </br>
 
 
 <br />
