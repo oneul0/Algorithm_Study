@@ -73,8 +73,8 @@
 
 ## 필수 문제
 
-7662~21944 까지
-[0x16강 - 이진 검색 트리](https://www.acmicpc.net/workbook/view/9346)  
+2295~2473 까지
+[0x13강 - 이분탐색](https://www.acmicpc.net/workbook/view/8400)  
  </br>
 
 
