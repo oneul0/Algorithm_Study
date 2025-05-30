@@ -73,8 +73,8 @@
 
 ## 필수 문제
 
-11725~20955까지
-[0x19강 - 트리](https://www.acmicpc.net/workbook/view/9657)  
+7662~21944 까지
+[0x16강 - 이진 검색 트리](https://www.acmicpc.net/workbook/view/9346)  
  </br>
 
 
