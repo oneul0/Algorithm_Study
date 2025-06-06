@@ -73,8 +73,8 @@
 
 ## 필수 문제
 
-2295~2473 까지
-[0x13강 - 이분탐색](https://www.acmicpc.net/workbook/view/8400)  
+11047~11000 까지
+[0x11강 - 그리디](https://www.acmicpc.net/workbook/view/7320)  
  </br>
 
 
