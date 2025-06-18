@@ -77,7 +77,7 @@
 [0x11강 - 그리디](https://www.acmicpc.net/workbook/view/7320)  
 
 백준 2212번 G5
-[센서](https://www.acmicpc.net/workbook/view/2212)  
+[센서](https://www.acmicpc.net/problem/2212)  
 
 백준 1213번 S3
 [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)  
