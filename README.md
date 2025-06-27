@@ -74,7 +74,7 @@
 ## 필수 문제
 
 전체
-[0x0B강 - 재귀](https://www.acmicpc.net/workbook/view/7314)  
+[0x0B강 - 백트래킹](https://www.acmicpc.net/workbook/view/7315)  
 
  </br>
 
