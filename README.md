@@ -73,8 +73,11 @@
 
 ## 필수 문제
 
-전체
-[0x0B강 - 백트래킹](https://www.acmicpc.net/workbook/view/7315)  
+[NxM 보드 완주하기](https://www.acmicpc.net/problem/9944)  
+[Guess](https://www.acmicpc.net/problem/1248)  
+[스도쿠](https://www.acmicpc.net/problem/2239)  
+[0 만들기](https://www.acmicpc.net/problem/7490)  
+[색종이 붙이기](https://www.acmicpc.net/problem/17136)  
 
  </br>
 
