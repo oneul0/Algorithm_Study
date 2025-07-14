@@ -73,11 +73,7 @@
 
 ## 필수 문제
 
-[NxM 보드 완주하기](https://www.acmicpc.net/problem/9944)  
-[Guess](https://www.acmicpc.net/problem/1248)  
-[스도쿠](https://www.acmicpc.net/problem/2239)  
-[0 만들기](https://www.acmicpc.net/problem/7490)  
-[색종이 붙이기](https://www.acmicpc.net/problem/17136)  
+[DP 문제집](https://www.acmicpc.net/workbook/view/7319)  
 
  </br>
 
